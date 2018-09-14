@@ -28,7 +28,7 @@
                 <img src="<?php echo RUTA_IMG?>logo/hpe-logo.png">
             </div>
             <div class="js-header--right">
-                <p>HPE Simplivity - Westham</p>
+                <p>HPE Westham</p>
             </div>
         </div>
         <section class="js-section js-height">

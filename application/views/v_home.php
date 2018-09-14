@@ -191,10 +191,10 @@
     <script src="<?php echo RUTA_JS?>Utils.js?v=<?php echo time();?>"></script>
     <script src="<?php echo RUTA_JS?>jsindex.js?v=<?php echo time();?>"></script>
     <script type="text/javascript">
-        // var URLactual = window.location;
-        // if(URLactual['href'] != 'http://www.marketinghpe.com/microsite/Simplivity_Workshop/'){
-        //     location.href = 'http://www.marketinghpe.com/microsite/Simplivity_Workshop/';
-        // }
+        var URLactual = window.location;
+        if(URLactual['href'] != 'http://www.marketinghpe.com/microsite/After_Office_SimpliVity_Nimble/ca/'){
+            location.href = 'http://www.marketinghpe.com/microsite/After_Office_SimpliVity_Nimble/ca/';
+        }
     </script>
 </body>
 </html>
