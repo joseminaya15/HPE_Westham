@@ -37,8 +37,8 @@
         <div class="js-container">
             <div class="js-home js-flex">
                 <div class="js-contenido">
-                    <h2 id="contenido1">HPE Simplivity: Entrenamiento T&eacute;cnico para Partners</h2>
-                    <p id="contenido2">Taller ofrecido por HPE con el patrocinio de Intel&reg;</p>
+                    <h2 id="contenido1">Acelerando la innovaci&oacute;n en un mundo TI híbrido</h2>
+                    <!-- <p id="contenido2">Taller ofrecido por HPE con el patrocinio de Intel&reg;</p> -->
                 </div>
             </div>
         </div>
