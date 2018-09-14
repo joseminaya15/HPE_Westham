@@ -92,7 +92,7 @@
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-4">
                          <div class=" js-input">
-                            <label for="text">Nombre de Canal*</label>
+                            <label for="text">Empresa*</label>
                             <input type="text" id="company" >
                         </div>
                     </div>
@@ -120,7 +120,6 @@
     </section>
     <footer class="js-section">
         <div class="js-container text-center">
-            <p class="content">Intel y el logotipo de Intel son marcas comerciales de la Corporación Intel o sus filiales en los Estados Unidos o en otros países</p>
             <p>&copy;2018 Copyright Hewlett Packard Enterprise Development LP</p>
         </div>
     </footer>

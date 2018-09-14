@@ -57,7 +57,7 @@
                                     <th class="text-left">Nombre</th>
                                     <th class="text-left">Email</th>
                                     <th class="text-right">Tel&eacute;fono</th>
-                                    <th class="text-left">Canal</th>
+                                    <th class="text-left">Empresa</th>
                                     <th class="text-left" style="display: none;">Ciudad</th>
                                     <th class="text-left">Cargo</th>
                                     <th class="text-left">País</th>
